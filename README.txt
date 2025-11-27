@@ -12,6 +12,7 @@ The project simulates the workflow used by modern Data Engineering and Analytics
 
 Pipeline Architecture
 The pipeline follows a simple and scalable architecture:
+dashboard/architecture.png
 
 E-commerce API
         ↓
