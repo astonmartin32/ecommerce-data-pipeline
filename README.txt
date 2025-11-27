@@ -12,7 +12,7 @@ The project simulates the workflow used by modern Data Engineering and Analytics
 
 Pipeline Architecture
 The pipeline follows a simple and scalable architecture:
-https://raw.githubusercontent.com/astonmartin32/ecommerce-data-pipeline/main/dashboard/architecture.png
+
 
 
 E-commerce API
